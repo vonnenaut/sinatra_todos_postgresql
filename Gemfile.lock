@@ -33,7 +33,8 @@ DEPENDENCIES
   erubis
   pg
   puma (= 4.3.5)
-  sinatra (~> 1.4.7)
+  rack
+  sinatra
   sinatra-contrib
 
 RUBY VERSION
