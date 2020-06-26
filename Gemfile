@@ -6,6 +6,7 @@ gem "sinatra"
 gem "sinatra-contrib"
 gem "erubis"
 gem "rack"
+gem "rake"
 gem "pg"
 
 group :production do

@@ -1,6 +1,6 @@
-CREATE DATABASE todos;
+-- CREATE DATABASE todos;
 
-\c todos
+-- \c todos
 
 DROP TABLE IF EXISTS lists CASCADE;
 
