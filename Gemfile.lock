@@ -34,13 +34,13 @@ PLATFORMS
 DEPENDENCIES
   erubis
   pg
-  puma (= 4.3.5)
+  puma
   rack
   sinatra
   sinatra-contrib
 
 RUBY VERSION
-   ruby 2.5.3p105
+   ruby 2.5.8p224
 
 BUNDLED WITH
-   2.1.4
+   1.17.3
